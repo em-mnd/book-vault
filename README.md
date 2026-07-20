@@ -14,9 +14,9 @@ The Library Manager will allow users to manage a collection of books and interac
 * Remove books from the library
 * View the library collection
 * Search for books
-* Track whether a book is available
-* Borrow a book
-* Return a book
+* Rate books (0 to 5 stars)
+* Update books
+ 
 * Store information about each book, such as:
 
   * Title
@@ -45,20 +45,9 @@ This project is intended to provide practical experience with:
 
 ## Project Status
 
-🚧 **In development**
+**In development**
 
 The project will be developed progressively as new Python concepts are learned.
-
-## Planned Project Structure
-
-```text
-library-manager/
-│
-├── README.md
-├── main.py
-└── ...
-```
-
 The structure may change as the project develops.
 
 ## Purpose
