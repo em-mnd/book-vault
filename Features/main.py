@@ -1,0 +1,1 @@
+# This file manages the main menu and calls the right function when needed
