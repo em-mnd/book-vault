@@ -1,4 +1,4 @@
-# Library Manager
+# BookVault
 
 A command-line library management application built with Python to practice object-oriented programming and fundamental software development concepts.
 
