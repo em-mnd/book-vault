@@ -26,10 +26,10 @@ class BookVault():
         if not choice in ('y', 'n'):
             raise ValueError('Please choice between (y/n).')
         elif choice == 'y':
-            Book()
+            Book(self.name, self.author, self.description)
         elif choice == 'n':
             print('Returning to main menu...')
-        self.books.append(self.books)
+        self.books.append(self.book)
     
     def remove_book(self):
         pass
